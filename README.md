@@ -1,14 +1,14 @@
 ### 🪐 About Me
 
-<img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg" />
-<div align="left">
-	
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
 - 🌱 All of my projects are available
 - 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about Web Development (React, Html and CSS)
 - 📫 How to reach me: revanalvianaa@gmail.com
 - 😄 Pronouns: he/him
+
+  <img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg" />
+<div align="left">
 
  ### 💓 Introduction
 ```
