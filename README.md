@@ -7,10 +7,8 @@
 - 📫 How to reach me: revanalvianaa@gmail.com
 - 😄 Pronouns: he/him
 
-  <img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg" />
-<div align="left">
-
-<hr/>
+  <img align="" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg" />
+<div align>
 
  ### 💓 Introduction
 ```
