@@ -7,12 +7,8 @@
 - 🌱 All of my projects are available
 - 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about Web Development (React, Html and CSS)
-- 📫 How to reach me: tanakadomp@gmail.com
+- 📫 How to reach me: revanalvianaa@gmail.com
 - 😄 Pronouns: he/him
-
-<div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakadomp&label=Profile%20views&color=0e75b6&style=flat" alt="tanakadomp" /> </p>
 
  ### 💓 Introduction
 ```
