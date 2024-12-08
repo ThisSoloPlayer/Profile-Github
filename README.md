@@ -1,10 +1,10 @@
 ### 🪐 About Me
 
-<img align="right" height="240" src="[https://raw.githubusercontent.com/TanakaDomp/uploder-db/main/uploads/1733497409844.jpe](https://raw.githubusercontent.com/ThisSoloPlayer/Profile/refs/heads/main/da76df.jpg?token=GHSAT0AAAAAAC3SCREDCEC3PJC2JVUXNLKCZ2U5NXA)"  />
+<img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg/>
 <div align="left">
 	
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
-- 🌱 All of my projects are available at [Website Domp](https://www.tanakadomp.biz.id).
+- 🌱 All of my projects are available
 - 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about Web Development (React, Html and CSS)
 - 📫 How to reach me: tanakadomp@gmail.com
@@ -18,11 +18,11 @@
 ```
 Intro =
 
-"Name": "Tanaka Domp",
+"Name": "Revan - Official",
 "Status": "Student",
 "Address": "Sumatra Selatan, Palembang, Indonesia",
 "Hobby": "Playing games, Fishing, Sleeping, and Coding",
-"Birthday": "September - 12"
+"Birthday": "Desember - 14"
 ```
 
 ### 📖 Languages and Tools
