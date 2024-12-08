@@ -1,6 +1,6 @@
 ### 🪐 About Me
 
-<img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg/>
+<img align="right" height="240" src="https://raw.githubusercontent.com/ThisSoloPlayer/Profile-RevanOfficial/refs/heads/main/da76df.jpg" />
 <div align="left">
 	
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
