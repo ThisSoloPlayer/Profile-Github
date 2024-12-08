@@ -26,19 +26,6 @@ Intro =
 
 ### 🌏 Connect With Me
 
-<a href="https://www.instagram.com/senn_hndra"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@senzndra"> 
+<a href="https://www.youtube.com/@AlwaysRevan_Official"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-
-### 📈 My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanakaDomp&show_icons=true&theme=radical" alt="tanakadomp" /></p>
-
-### 📈 My Contribution Graph
-![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
-<div align="center">
-	
-<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="TanakaDomp">
-</div>
